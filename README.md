@@ -43,7 +43,3 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 - 🌐 [aligned.tools](https://aligned.tools)
 - 🐦 [@jonathanhawkins](https://x.com/jonathanhawkins)
 - 💼 [LinkedIn](https://linkedin.com/in/jonathanhawkins)
-
----
-
-*Currently open to conversations about agentic AI engineering, developer tools, and solutions engineering roles. Based in LA, open to SF or remote.*
