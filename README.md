@@ -6,6 +6,7 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 
 ### 🔭 What I'm working on
 
+- **[VibeView](https://github.com/jonathanhawkins/vibe-view)** — Spatial command center for AI coding agent teams. Spawn, monitor, and voice-command teams of Claude Code agents from Apple Vision Pro, desktop, or PICO. Open source (MIT).
 - **[Aligned Tools](https://aligned.tools)** — B2B SaaS that turns meetings, docs, and photos into structured Jira/Linear/Asana tickets. Currently in active enterprise sales with indie and AAA game studios.
 - **[Patina](https://github.com/jonathanhawkins/patina)** — Rust-native, behavior-compatible Godot runtime. Automated port running as a background flywheel.
 - **[SkillVault](https://github.com/jonathanhawkins/skillvault-desktop)** — "npm for SKILL.md" — a marketplace and registry for agent skill packages.
@@ -22,7 +23,7 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 ### 🏆 Recent
 
 - 🥇 **Best Technical Excellence**, TechWeek WebSpatial pitch competition (2026)
-- 🥇 **Winner**, SensAI Hackademy (Fort Mason, SF) — shipped 21,000 LOC in 28 hours for VibeView, an agentic-first IDE
+- 🥇 **Winner**, SensAI Hackademy (Fort Mason, SF) — shipped [VibeView](https://github.com/jonathanhawkins/vibe-view) in 28 hours (21,000 LOC) — a spatial agent command center for Apple Vision Pro and PICO
 - 📈 **Top 0.3% of Cursor users globally** in 2025 before switching to Claude Code
 
 ### 🚀 Also shipped
