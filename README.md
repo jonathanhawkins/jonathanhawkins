@@ -8,6 +8,7 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 
 - **[Aligned Tools](https://aligned.tools)** — B2B SaaS that turns meetings, docs, and photos into structured Jira/Linear/Asana tickets. Currently in active enterprise sales with indie and AAA game studios.
 - **[VibeView](https://github.com/jonathanhawkins/vibe-view)** — 🥇 **Winner, SensAI Hackademy** · 🥇 **Best Technical Excellence, TechWeek WebSpatial 2026**. Spatial command center for AI coding agent teams — spawn, monitor, and voice-command teams of Claude Code agents from Apple Vision Pro, desktop, or PICO. Open source (MIT).
+- **[Glassbox](https://github.com/jonathanhawkins/glassbox)**: a glass cockpit for swarms of real coding agents. Point it at live Claude Code sessions and the swarm decomposes a goal, hands each piece to a sub-agent, and verifies the work. Every move is animated on a live tldraw board. One engine, 8 distinct loop shapes, each named by its stop condition. Built at WeaveHacks 4 hackathon.
 - **[Patina](https://github.com/jonathanhawkins/patina)** — Rust-native, behavior-compatible Godot runtime. Automated port running as a background flywheel.
 - **[SkillVault](https://github.com/jonathanhawkins/skillvault-desktop)** — "npm for SKILL.md" — a marketplace and registry for agent skill packages.
 - **[VoxHerd](https://github.com/jonathanhawkins/voxherd-bridge)** — Voice-first bridge for multi-agent Claude Code / Codex orchestration. Control terminals from your phone or Meta Ray-Bans.
@@ -22,6 +23,7 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 
 ### 🏆 Recent
 
+- 🥇 **Winner**, Agentic AI SF Hackathon. Built [DEAD DROP](https://github.com/jonathanhawkins/dead-drop), a real-world spy ARG: an LLM "Handler" runs a player through a live espionage mission entirely over iMessage, then steps out of the screen so a real person hands them a physical envelope to complete the passphrase.
 - 🥇 **Best Technical Excellence**, TechWeek WebSpatial pitch competition (2026)
 - 🥇 **Winner**, SensAI Hackademy (Fort Mason, SF) — shipped [VibeView](https://github.com/jonathanhawkins/vibe-view) in 28 hours (21,000 LOC) — a spatial agent command center for Apple Vision Pro and PICO
 - 📈 **Top 0.3% of Cursor users globally** in 2025 before switching to Claude Code
