@@ -32,7 +32,7 @@ I spent 20+ years shipping AAA games — **Lead Level Designer at Sony Santa Mon
 
 - **[VideoGameMCP](https://www.videogamemcp.com)** — MCP server + web platform for "vibe coding" games. Connects Cursor to AI-generated game design docs, cursor rules, and a concept-to-3D model pipeline. One of the first MCP servers shipped to production (2025).
 
-### 🎮 Previous life
+### 🎮 Previous works
 
 - **Santa Monica Studio** (2003–2014) — Junior Designer → Lead Level Designer. Credits on God of War 1, 2, 3, and Ascension. Led design on an unannounced AAA IP, managed 15+ designers.
 - **Deviation Games** — Creative Director on a 200+ person AAA team, Sony publishing partnership.
